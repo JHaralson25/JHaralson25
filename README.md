@@ -25,7 +25,7 @@
 <!--START_SECTION:activity-->
 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 How To Reach Me
 
 You can reach me at jacobharalson9@gmail.com
 
