@@ -23,7 +23,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
