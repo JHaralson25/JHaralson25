@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About Me
+
+- Undergraduate Computer Science Major at WashU, graduating May 2025
+- All of my projects can be accessed on my Github
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
