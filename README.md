@@ -27,6 +27,8 @@ You can reach me at jacobharalson9@gmail.com
 
 You can also follow my socials:
 
+[<img src="https://raw.githubusercontent.com/JHaralson25/JHaralson25/master/linkedin.png" height="40em" align="center" alt="Follow jacobharalson9 on LinkedIn" title="Follow jacobharalson9 on LinkedIn"/>](https://www.linkedin.com/in/jacobharalson9/)
+
 <!--
 **JHaralson25/JHaralson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
