@@ -17,6 +17,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **JHaralson25/JHaralson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
