@@ -20,6 +20,13 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+You can reach me at jacobharalson9@gmail.com
+
+You can also follow my socials:
+
 <!--
 **JHaralson25/JHaralson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
